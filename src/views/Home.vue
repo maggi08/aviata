@@ -8,7 +8,7 @@
       </div>
       <div class="tickets">
         <div class="tickets-item" v-for="(item, index) in tickets" :key="index">
-          <Ticket :item="item" />
+          <Ticket :ticket="item" :airlines="airlines" />
         </div>
       </div>
     </div>
@@ -27,6 +27,7 @@ export default {
     results: results,
     tickets: [],
     filters: [],
+    airlines: {},
   }),
   mounted() {
     this.setTickets();
@@ -41,6 +42,7 @@ export default {
         code: key,
         text: value,
       }));
+      this.airlines = airlines;
       this.filters.push(
         {
           name: "tariffs",

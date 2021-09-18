@@ -134,6 +134,11 @@ export default {
   data: () => ({
     type: "oneway",
     searchForm: {},
+    methods: {
+      submitSearch() {
+        console.log(this.searchForm);
+      },
+    },
   }),
 };
 </script>

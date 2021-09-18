@@ -27,10 +27,7 @@
               "amount": "186 070",
               "price_raw": 186070
             },
-            "layovers": [
-              4800,
-              0
-            ],
+            "layovers": [4800, 0],
             "arr_date": "2019/8/30 23:10",
             "allowed_offers": [],
             "carrier_name": "Scat Airlines",
@@ -391,10 +388,7 @@
               "amount": "224 281",
               "price_raw": 224281
             },
-            "layovers": [
-              11400,
-              0
-            ],
+            "layovers": [11400, 0],
             "arr_date": "2019/8/30 21:20",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -543,10 +537,7 @@
               "amount": "224 281",
               "price_raw": 224281
             },
-            "layovers": [
-              45000,
-              0
-            ],
+            "layovers": [45000, 0],
             "arr_date": "2019/8/31 8:50",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -695,10 +686,7 @@
               "amount": "224 281",
               "price_raw": 224281
             },
-            "layovers": [
-              21300,
-              0
-            ],
+            "layovers": [21300, 0],
             "arr_date": "2019/8/30 21:20",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -847,10 +835,7 @@
               "amount": "224 281",
               "price_raw": 224281
             },
-            "layovers": [
-              3600,
-              0
-            ],
+            "layovers": [3600, 0],
             "arr_date": "2019/8/30 21:20",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -999,10 +984,7 @@
               "amount": "224 281",
               "price_raw": 224281
             },
-            "layovers": [
-              25800,
-              0
-            ],
+            "layovers": [25800, 0],
             "arr_date": "2019/8/30 21:20",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -1151,10 +1133,7 @@
               "amount": "224 281",
               "price_raw": 224281
             },
-            "layovers": [
-              36300,
-              0
-            ],
+            "layovers": [36300, 0],
             "arr_date": "2019/8/30 21:20",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -1303,10 +1282,7 @@
               "amount": "224 281",
               "price_raw": 224281
             },
-            "layovers": [
-              38100,
-              0
-            ],
+            "layovers": [38100, 0],
             "arr_date": "2019/8/31 8:50",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -1455,10 +1431,7 @@
               "amount": "224 281",
               "price_raw": 224281
             },
-            "layovers": [
-              41700,
-              0
-            ],
+            "layovers": [41700, 0],
             "arr_date": "2019/8/31 8:50",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -1607,10 +1580,7 @@
               "amount": "224 281",
               "price_raw": 224281
             },
-            "layovers": [
-              77700,
-              0
-            ],
+            "layovers": [77700, 0],
             "arr_date": "2019/8/31 8:50",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -1759,10 +1729,7 @@
               "amount": "224 281",
               "price_raw": 224281
             },
-            "layovers": [
-              62700,
-              0
-            ],
+            "layovers": [62700, 0],
             "arr_date": "2019/8/31 8:50",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -1911,10 +1878,7 @@
               "amount": "224 281",
               "price_raw": 224281
             },
-            "layovers": [
-              67200,
-              0
-            ],
+            "layovers": [67200, 0],
             "arr_date": "2019/8/31 8:50",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -2063,10 +2027,7 @@
               "amount": "224 281",
               "price_raw": 224281
             },
-            "layovers": [
-              52800,
-              0
-            ],
+            "layovers": [52800, 0],
             "arr_date": "2019/8/31 8:50",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -2215,10 +2176,7 @@
               "amount": "224 281",
               "price_raw": 224281
             },
-            "layovers": [
-              45600,
-              0
-            ],
+            "layovers": [45600, 0],
             "arr_date": "2019/8/30 21:20",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -2367,10 +2325,7 @@
               "amount": "226 195",
               "price_raw": 226195
             },
-            "layovers": [
-              7200,
-              0
-            ],
+            "layovers": [7200, 0],
             "arr_date": "2019/8/30 11:35",
             "allowed_offers": [],
             "carrier_name": "HR",
@@ -2731,10 +2686,7 @@
               "amount": "248 690",
               "price_raw": 248690
             },
-            "layovers": [
-              83100,
-              0
-            ],
+            "layovers": [83100, 0],
             "arr_date": "2019/8/31 21:20",
             "allowed_offers": [],
             "carrier_name": "Air Astana",
@@ -2883,10 +2835,7 @@
               "amount": "263 505",
               "price_raw": 263505
             },
-            "layovers": [
-              38700,
-              0
-            ],
+            "layovers": [38700, 0],
             "arr_date": "2019/8/30 19:30",
             "allowed_offers": [],
             "carrier_name": "Belavia",
@@ -3035,10 +2984,7 @@
               "amount": "270 015",
               "price_raw": 270015
             },
-            "layovers": [
-              4200,
-              0
-            ],
+            "layovers": [4200, 0],
             "arr_date": "2019/8/30 9:50",
             "allowed_offers": [],
             "carrier_name": "Belavia",
@@ -3187,10 +3133,7 @@
               "amount": "270 015",
               "price_raw": 270015
             },
-            "layovers": [
-              39000,
-              0
-            ],
+            "layovers": [39000, 0],
             "arr_date": "2019/8/30 19:30",
             "allowed_offers": [],
             "carrier_name": "Belavia",
@@ -3339,10 +3282,7 @@
               "amount": "270 015",
               "price_raw": 270015
             },
-            "layovers": [
-              18900,
-              0
-            ],
+            "layovers": [18900, 0],
             "arr_date": "2019/8/30 13:55",
             "allowed_offers": [],
             "carrier_name": "Belavia",
@@ -3491,10 +3431,7 @@
               "amount": "270 015",
               "price_raw": 270015
             },
-            "layovers": [
-              5100,
-              0
-            ],
+            "layovers": [5100, 0],
             "arr_date": "2019/8/30 10:05",
             "allowed_offers": [],
             "carrier_name": "Belavia",
@@ -3643,10 +3580,7 @@
               "amount": "270 015",
               "price_raw": 270015
             },
-            "layovers": [
-              55500,
-              0
-            ],
+            "layovers": [55500, 0],
             "arr_date": "2019/8/31 0:05",
             "allowed_offers": [],
             "carrier_name": "Belavia",
@@ -3795,10 +3729,7 @@
               "amount": "270 015",
               "price_raw": 270015
             },
-            "layovers": [
-              44700,
-              0
-            ],
+            "layovers": [44700, 0],
             "arr_date": "2019/8/30 21:05",
             "allowed_offers": [],
             "carrier_name": "Belavia",
@@ -3947,10 +3878,7 @@
               "amount": "270 015",
               "price_raw": 270015
             },
-            "layovers": [
-              33300,
-              0
-            ],
+            "layovers": [33300, 0],
             "arr_date": "2019/8/30 17:55",
             "allowed_offers": [],
             "carrier_name": "Belavia",
@@ -4099,10 +4027,7 @@
               "amount": "270 015",
               "price_raw": 270015
             },
-            "layovers": [
-              37500,
-              0
-            ],
+            "layovers": [37500, 0],
             "arr_date": "2019/8/30 19:05",
             "allowed_offers": [],
             "carrier_name": "Belavia",
@@ -4251,10 +4176,7 @@
               "amount": "314 936",
               "price_raw": 314936
             },
-            "layovers": [
-              25500,
-              0
-            ],
+            "layovers": [25500, 0],
             "arr_date": "2019/8/30 19:55",
             "allowed_offers": [],
             "carrier_name": "Air Baltic",
@@ -4403,10 +4325,7 @@
               "amount": "314 936",
               "price_raw": 314936
             },
-            "layovers": [
-              43500,
-              0
-            ],
+            "layovers": [43500, 0],
             "arr_date": "2019/8/31 1:00",
             "allowed_offers": [],
             "carrier_name": "Air Baltic",
@@ -4555,10 +4474,7 @@
               "amount": "314 936",
               "price_raw": 314936
             },
-            "layovers": [
-              72300,
-              0
-            ],
+            "layovers": [72300, 0],
             "arr_date": "2019/8/31 9:00",
             "allowed_offers": [],
             "carrier_name": "Air Baltic",
@@ -4707,10 +4623,7 @@
               "amount": "314 936",
               "price_raw": 314936
             },
-            "layovers": [
-              6300,
-              0
-            ],
+            "layovers": [6300, 0],
             "arr_date": "2019/8/30 14:40",
             "allowed_offers": [],
             "carrier_name": "Air Baltic",
@@ -4859,10 +4772,7 @@
               "amount": "316 178",
               "price_raw": 316178
             },
-            "layovers": [
-              27600,
-              0
-            ],
+            "layovers": [27600, 0],
             "arr_date": "2019/8/30 21:30",
             "allowed_offers": [],
             "carrier_name": "Uzbekistan Airways",
@@ -5011,10 +4921,7 @@
               "amount": "316 178",
               "price_raw": 316178
             },
-            "layovers": [
-              73500,
-              0
-            ],
+            "layovers": [73500, 0],
             "arr_date": "2019/8/31 10:15",
             "allowed_offers": [],
             "carrier_name": "Uzbekistan Airways",
@@ -5163,10 +5070,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              43500,
-              0
-            ],
+            "layovers": [43500, 0],
             "arr_date": "2019/8/30 18:00",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -5315,10 +5219,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              54300,
-              0
-            ],
+            "layovers": [54300, 0],
             "arr_date": "2019/8/30 21:00",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -5467,10 +5368,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              54300,
-              0
-            ],
+            "layovers": [54300, 0],
             "arr_date": "2019/8/30 21:00",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -5619,10 +5517,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              56100,
-              0
-            ],
+            "layovers": [56100, 0],
             "arr_date": "2019/8/30 21:50",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -5771,10 +5666,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              54300,
-              0
-            ],
+            "layovers": [54300, 0],
             "arr_date": "2019/8/30 21:00",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -5923,10 +5815,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              16500,
-              0
-            ],
+            "layovers": [16500, 0],
             "arr_date": "2019/8/30 10:30",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -6075,10 +5964,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              54300,
-              0
-            ],
+            "layovers": [54300, 0],
             "arr_date": "2019/8/30 21:10",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -6227,10 +6113,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              54300,
-              0
-            ],
+            "layovers": [54300, 0],
             "arr_date": "2019/8/30 21:00",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -6379,10 +6262,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              22500,
-              0
-            ],
+            "layovers": [22500, 0],
             "arr_date": "2019/8/30 12:10",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -6531,10 +6411,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              55500,
-              0
-            ],
+            "layovers": [55500, 0],
             "arr_date": "2019/8/30 21:20",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -6683,10 +6560,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              54900,
-              0
-            ],
+            "layovers": [54900, 0],
             "arr_date": "2019/8/30 21:10",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -6835,10 +6709,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              35700,
-              0
-            ],
+            "layovers": [35700, 0],
             "arr_date": "2019/8/30 15:50",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -6987,10 +6858,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              54300,
-              0
-            ],
+            "layovers": [54300, 0],
             "arr_date": "2019/8/30 21:00",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -7139,10 +7007,7 @@
               "amount": "340 407",
               "price_raw": 340407
             },
-            "layovers": [
-              11100,
-              0
-            ],
+            "layovers": [11100, 0],
             "arr_date": "2019/8/30 9:00",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -7291,10 +7156,7 @@
               "amount": "370 082",
               "price_raw": 370082
             },
-            "layovers": [
-              33900,
-              0
-            ],
+            "layovers": [33900, 0],
             "arr_date": "2019/8/30 22:25",
             "allowed_offers": [],
             "carrier_name": "Air Baltic",
@@ -7443,10 +7305,7 @@
               "amount": "370 082",
               "price_raw": 370082
             },
-            "layovers": [
-              55800,
-              0
-            ],
+            "layovers": [55800, 0],
             "arr_date": "2019/8/31 4:30",
             "allowed_offers": [],
             "carrier_name": "Air Baltic",
@@ -7595,10 +7454,7 @@
               "amount": "370 082",
               "price_raw": 370082
             },
-            "layovers": [
-              11100,
-              0
-            ],
+            "layovers": [11100, 0],
             "arr_date": "2019/8/30 16:10",
             "allowed_offers": [],
             "carrier_name": "Air Baltic",
@@ -7747,11 +7603,7 @@
               "amount": "387 974",
               "price_raw": 387974
             },
-            "layovers": [
-              38400,
-              12000,
-              0
-            ],
+            "layovers": [38400, 12000, 0],
             "arr_date": "2019/8/30 20:30",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -7943,11 +7795,7 @@
               "amount": "387 974",
               "price_raw": 387974
             },
-            "layovers": [
-              17700,
-              32700,
-              0
-            ],
+            "layovers": [17700, 32700, 0],
             "arr_date": "2019/8/30 20:30",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -8139,11 +7987,7 @@
               "amount": "387 974",
               "price_raw": 387974
             },
-            "layovers": [
-              17700,
-              17100,
-              0
-            ],
+            "layovers": [17700, 17100, 0],
             "arr_date": "2019/8/30 16:10",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -8335,11 +8179,7 @@
               "amount": "390 778",
               "price_raw": 390778
             },
-            "layovers": [
-              37800,
-              12300,
-              0
-            ],
+            "layovers": [37800, 12300, 0],
             "arr_date": "2019/8/30 20:20",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -8531,10 +8371,7 @@
               "amount": "404 336",
               "price_raw": 404336
             },
-            "layovers": [
-              6600,
-              0
-            ],
+            "layovers": [6600, 0],
             "arr_date": "2019/8/30 21:50",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -8683,10 +8520,7 @@
               "amount": "404 336",
               "price_raw": 404336
             },
-            "layovers": [
-              6000,
-              0
-            ],
+            "layovers": [6000, 0],
             "arr_date": "2019/8/30 21:20",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -8835,10 +8669,7 @@
               "amount": "404 336",
               "price_raw": 404336
             },
-            "layovers": [
-              39600,
-              0
-            ],
+            "layovers": [39600, 0],
             "arr_date": "2019/8/31 6:40",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
@@ -8987,10 +8818,7 @@
               "amount": "404 336",
               "price_raw": 404336
             },
-            "layovers": [
-              72600,
-              0
-            ],
+            "layovers": [72600, 0],
             "arr_date": "2019/8/31 15:50",
             "allowed_offers": [],
             "carrier_name": "S7 Airlines",
