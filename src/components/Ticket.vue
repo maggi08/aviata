@@ -110,7 +110,7 @@
       <button class="green-btn">Выбрать</button>
       <p class="small">Цена за всех пассажиров</p>
       <div class="bag">
-        Нет багажа
+        <p>Нет багажа</p>
         <button @click="addBag" class="bag-btn">+ Добавить багаж</button>
       </div>
     </div>
@@ -244,8 +244,11 @@ export default {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      font-size: 12px;
-      line-height: 16px;
+      p {
+        font-size: 12px;
+        line-height: 16px;
+      }
+
       &-btn {
         background: #eaf0fa;
         border-radius: 2px;
